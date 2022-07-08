@@ -1,0 +1,2 @@
+# Quiz-App
+ In this quiz app, you've to select one option in all given options, and once you select it can't be undone. After you select an option, if your selected option is correct then there there appears a tick icon with a green border, and if wrong then there appears a close icon with a red border. There are a total of 5 five questions. In the end, there appears a result box with your score and replay &amp; quit button.
